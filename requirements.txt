@@ -2,13 +2,13 @@ ipykernel==6.15.2
 requests==2.31.0
 SPARQLWrapper==2.0.0
 beautifulsoup4==4.8.2
-lxml==4.9.1
+lxml
 textblob==0.17.1
 textract==1.6.5
 spacy==3.4.1
 textblob_fr==0.2.0
 langid==1.1.6
-gensim==4.2.0
+gensim
 faker==14.2.0
 openpyxl==3.0.10
 nltk==3.7
@@ -17,7 +17,7 @@ yake==0.4.8
 pandas==1.5.0
 sklearn==0.0
 matplotlib==3.6.0
-wordcloud==1.8.2.2
+wordcloud
 unidecode==1.3.6
 pycountry==22.3.5
 scikit-plot==0.3.7
